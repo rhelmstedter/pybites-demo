@@ -1,4 +1,4 @@
-## [Intro Bite 01. F-strings and a simple if/else](https://codechalleng.es/bites/101/)
+## [Bite 124. Marvel data analysis](https://codechalleng.es/bites/124/)
 
 Good luck and please share you code in the Bite forums upon completion.
 
